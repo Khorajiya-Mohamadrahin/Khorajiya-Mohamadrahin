@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-4518781-3743936.mp4?h=700)](https://Khorajiya-Mohamadrahin.io)
+[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1691595750~exp=1691596350~hmac=5ffda92af08c00739403385edc97079163b41ff69fee14201e3272050fcf1be1)](https://Khorajiya-Mohamadrahin.io)
 <h1 align="center">Hi 👋, I'm Rahin Khorajiya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">  
