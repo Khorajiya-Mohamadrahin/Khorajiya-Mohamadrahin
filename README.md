@@ -1,9 +1,9 @@
-[![MasterHead](https://iconscout.com/lottie/web-application-development-4099447)](https://Khorajiya-Mohamadrahin.io)
+[![MasterHead](https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-4518781-3743936.mp4?h=700)](https://Khorajiya-Mohamadrahin.io)
 <h1 align="center">Hi 👋, I'm Rahin Khorajiya</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&source=lmns&bih=736&biw=393&client=ms-android-xiaomi-terr1-rso2&hl=en&sa=X&ved=2ahUKEwiw0MPp8s6AAxVtz6ACHY_VDu0Q0pQJKAB6BAgAEAc#vhid=sgHlahCx9OOyOM&vssid=3981:T--UDDCdCdPjrM">  
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khorajiya-mohamadrahin&label=Profile%20views&color=0e75b6&style=flat" alt="khorajiya-mohamadrahin" /> </p>
+<p align="left"> <img src="https://dribbble.com/shots/3848914-Programmer-Thomas" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
