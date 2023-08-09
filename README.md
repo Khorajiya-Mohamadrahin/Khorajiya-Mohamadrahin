@@ -1,16 +1,25 @@
-### Hi there 👋
+[![MasterHead](https://iconscout.com/lottie/web-application-development-4099447)](https://Khorajiya-Mohamadrahin.io)
+<h1 align="center">Hi 👋, I'm Rahin Khorajiya</h1>
+<h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&source=lmns&bih=736&biw=393&client=ms-android-xiaomi-terr1-rso2&hl=en&sa=X&ved=2ahUKEwiw0MPp8s6AAxVtz6ACHY_VDu0Q0pQJKAB6BAgAEAc#vhid=sgHlahCx9OOyOM&vssid=3981:T--UDDCdCdPjrM">  
 
-<!--
-**Khorajiya-Mohamadrahin/Khorajiya-Mohamadrahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khorajiya-mohamadrahin&label=Profile%20views&color=0e75b6&style=flat" alt="khorajiya-mohamadrahin" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **rahinkhorajiya@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahin-khorajiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahin-khorajiya" height="30" width="40" /></a>
+<a href="https://instagram.com/rahin_khorajiya_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahin_khorajiya_18" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khorajiya-mohamadrahin&show_icons=true&locale=en&layout=compact" alt="khorajiya-mohamadrahin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khorajiya-mohamadrahin&show_icons=true&locale=en" alt="khorajiya-mohamadrahin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khorajiya-mohamadrahin&" alt="khorajiya-mohamadrahin" /></p>
